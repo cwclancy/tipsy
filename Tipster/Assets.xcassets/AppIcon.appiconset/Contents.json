@@ -89,6 +89,35 @@
       "idiom" : "ios-marketing",
       "size" : "1024x1024",
       "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "glyphicons-193-remove-sign.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "glyphicons-4-user.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "glyphicons-5-girl.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "glyphicons-198-remove-circle.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "glyphicons-208-remove.png",
+      "unassigned" : true,
+      "scale" : "1x"
     }
   ],
   "info" : {
