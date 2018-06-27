@@ -30,13 +30,19 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/JmShcAG' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+First time using objective C so some issues just gettting used to syntax and 
+getting used to the Xcode IDE, more complicated than what I am used to
+but obviously very powerful. 
+
 
 ## Credits
 
